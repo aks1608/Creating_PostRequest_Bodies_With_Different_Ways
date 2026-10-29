@@ -9,7 +9,7 @@ import static io.restassured.RestAssured.given;
 import io.restassured.http.ContentType;
 
 
-public class post {
+public class HashmapPost {
 
     @Test
     public void testUsingHashMap() {
